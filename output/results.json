@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Python Security",
+        "url": "https://www.slideshare.net/test1",
+        "author": "John Doe",
+        "description": "Intro to Python security concepts",
+        "views": 1500,
+        "upload_date": "2026-05-20",
+        "page": 2,
+        "extracted_at": "2026-05-24T16:38:05.235301Z"
+    },
+    {
+        "title": "Docker Basics",
+        "url": "https://www.slideshare.net/test2",
+        "author": "Jane Smith",
+        "description": "Docker fundamentals",
+        "views": 2200,
+        "upload_date": "2026-05-18",
+        "page": 2,
+        "extracted_at": "2026-05-24T16:38:05.235301Z"
+    }
+]
