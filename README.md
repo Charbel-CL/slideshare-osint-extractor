@@ -96,7 +96,7 @@ Example:
   {
     "title": "Python Security",
     "url": "https://www.slideshare.net/test1",
-    "author": "John Doe",
+    "author": "Charbel",
     "description": "Intro to Python security concepts",
     "views": 1500,
     "upload_date": "2026-05-20",
@@ -157,6 +157,12 @@ docker run slideshare-extractor
 - Dynamic parser selectors
 
 ---
+
+# Running Tests
+
+```bash
+pytest
+```
 
 # Engineering Considerations
 
